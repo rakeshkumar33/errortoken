@@ -1,7 +1,7 @@
 ERC20 TOKEN (errortoken)
  
 1. copy the errortoken.sol code into https://remix.ethereum.org/ 
-2. install metamask https://remix.ethereum.org/ as a browser addon. MetaMask is a bridge that allows you to visit the distributed web of tomorrow in your browser today. It allows you to run Ethereum dApps right in your browser without running a full Ethereum node.
+2. install metamask https://metamask.io/ as a browser addon. MetaMask is a bridge that allows you to visit the distributed web of tomorrow in your browser today. It allows you to run Ethereum dApps right in your browser without running a full Ethereum node.
 3. select any test network rinkeby or ropsten and get test ethers.
 4. compile the errortoken.sol & deploy it.
 
